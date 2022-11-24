@@ -1,2 +1,2 @@
 # git-github
-this is practice purpose
+This is practice purpose
